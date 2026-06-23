@@ -1,6 +1,6 @@
 # Graphical Calculator
 
-A Java-based graphical calculator developed as part of the CS25B035 project.
+A Java-based graphical calculator developed .
 
 ## Features
 - Basic arithmetic operations
